@@ -1,6 +1,7 @@
 # Mac OS X Files
 **/.DS_Store
 xcuserdata/
+/.repo/
 
 # Objects, Libraries, Executables, etc...
 *.dylib
