@@ -18,3 +18,9 @@ Build/
 build/
 root/
 target/
+
+# Repo-Created Directories
+Documentation/
+Source/
+Tools/
+Xcode/
